@@ -1,0 +1,22 @@
+{
+  "name": "simple-template",
+  "version": "1.0.0",
+  "description": "simple HTML5 starter template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamagata-developers-society/simple-template.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Yamagata Developers Society",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamagata-developers-society/simple-template/issues"
+  },
+  "homepage": "https://github.com/yamagata-developers-society/simple-template#readme"
+}
