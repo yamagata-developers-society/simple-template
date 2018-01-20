@@ -1,0 +1,10 @@
+# system files
+.DS_Store
+/.DS_Store
+
+# package managers
+node_modules/
+bower_components
+
+# project files
+dist/

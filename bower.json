@@ -1,0 +1,22 @@
+{
+  "name": "simple-template",
+  "description": "simple html5 starter template",
+  "main": "index.js",
+  "authors": [
+    "Yamagata Developers Society"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "template"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "3.3.7"
+  }
+}
